@@ -27,7 +27,7 @@ namespace EventManagementSystem.Services
                 claims.Add(new Claim("Roles", role));
             }
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Dholakpur123456789isMySuperSecreteKeyOfLengthLongerthanBefore"));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(""));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
 
