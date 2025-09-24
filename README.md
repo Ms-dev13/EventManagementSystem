@@ -27,7 +27,7 @@ Database: [e.g., Reliable SQL Server or PostgreSQL for data management]
 Let's get it running!
 Want to see it in action? Follow these simple steps to get the project set up on your machine:
 
-Clone: git clone https://github.com/your-username/event-hub.git
+Clone: git clone (https://github.com/Ms-dev13/EventManagementSystem)
 
 Open: Open the project in Visual Studio or Visual Studio Code.
 
